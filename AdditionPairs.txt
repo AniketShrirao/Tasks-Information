@@ -1,0 +1,4 @@
+1. You Have to Make an Array of Random Numbers 
+2. And Take a input from Users (a number)
+3. make a Program which will find the addition pairs of the inputted Number from the random array
+4. if found display them else display error message.

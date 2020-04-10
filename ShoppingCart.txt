@@ -1,0 +1,3 @@
+1. do CRUD operation task
+2. use Localstorage to store the item name and quantity
+3. make three buttons Add Update Delete to perform operation.

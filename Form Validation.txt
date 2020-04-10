@@ -1,0 +1,3 @@
+1. Do use Regex
+2. dont use Html5 validation use only js to validate
+3. use functional approach and proper commentings 

@@ -1,0 +1,4 @@
+1 Create a Load More Functionality code
+2. use Ajax requests to get users post from json Placeholder
+3. display 6 posts at first when dom load
+4. after clickiing load more button we should get next 6 post and so on.

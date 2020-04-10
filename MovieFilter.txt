@@ -1,0 +1,6 @@
+1. Make 10 instances of an class using Function constructor Concept
+2. Instances should contain 10 different Movies info
+3. movies info should contain Movie name,Actor name, producer name,release Date.
+4. display that 10 movies and create a search button
+5. when we search we should only get those movies 
+6. if we search with initial every movies with that initial should display.

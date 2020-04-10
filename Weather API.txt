@@ -1,0 +1,4 @@
+1.Use OpenWeatherApi to get the data
+2. display weather status,windspeed,temperature value in degrees
+3. and according to temperature background image should change
+4. validate if the inputted city is valid city or not
